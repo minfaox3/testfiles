@@ -1,10 +1,7 @@
 {
   "newsList":[
-    {"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
-    {"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
-    {"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
-    {"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
-    {"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
-    {"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"}
+    {"number":15,"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
+    {"number":15,"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
+    {"number":15,"title":"XXXXX","description":"AAAAAAAAA","published":"2020/10/22","body":"YYYYYYYYYYYY"},
   ]
 }
