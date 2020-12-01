@@ -28,5 +28,12 @@
             <pubDate>Mon, 30 Nov 2020 20:00:00 GMT</pubDate>
             <description><![CDATA[テストの Advent Calendar 2020 3日目]]></description>
         </item>
+        <item>
+            <title><![CDATA[記事のタイトル]]></title>
+            <link>https://adventar.org/XXXXX</link>
+            <guid>107000</guid>
+            <pubDate>Mon, 30 Nov 2020 21:00:00 GMT</pubDate>
+            <description><![CDATA[テストの Advent Calendar 2020 X日目]]></description>
+        </item>
     </channel>
 </rss>
