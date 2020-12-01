@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>てすと Advent Calendar 2020</title>
+        <link>https://adventar.org/calendars/XXXX</link>
+        <description>カレンダー説明</description>
+        <lastBuildDate>Mon, 30 Nov 2020 15:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Adventar</generator>
+        <item>
+            <title><![CDATA[フィードタイトル]]></title>
+            <link>フィードリンク</link>
+            <guid>106988</guid>
+            <pubDate>Mon, 30 Nov 2020 15:00:00 GMT</pubDate>
+            <description><![CDATA[テスト Advent Calendar 2020 1日目]]></description>
+        </item>
+    </channel>
+</rss>
