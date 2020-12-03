@@ -14,33 +14,5 @@
             <pubDate>Mon, 30 Nov 2020 15:00:00 GMT</pubDate>
             <description><![CDATA[テスト Advent Calendar 2020 1日目]]></description>
         </item>
-        <item>
-            <title><![CDATA[フィードのタイトル]]></title>
-            <link>フィードのリンク</link>
-            <guid>106988</guid>
-            <pubDate>Mon, 30 Nov 2020 19:00:00 GMT</pubDate>
-            <description><![CDATA[テストの Advent Calendar 2020 1日目]]></description>
-        </item>
-        <item>
-            <title><![CDATA[フィードのタイト2ル]]></title>
-            <link>https://adventar.org/</link>
-            <guid>106990</guid>
-            <pubDate>Mon, 30 Nov 2020 20:00:00 GMT</pubDate>
-            <description><![CDATA[テストの Advent Calendar 2020 3日目]]></description>
-        </item>
-        <item>
-            <title><![CDATA[記事のタイトル]]></title>
-            <link>https://adventar.org/XXXXX</link>
-            <guid>107000</guid>
-            <pubDate>Mon, 30 Nov 2020 21:00:00 GMT</pubDate>
-            <description><![CDATA[テストの Advent Calendar 2020 X日目]]></description>
-        </item>
-        <item>
-            <title><![CDATA[記事のタイトル2]]></title>
-            <link>https://adventar.org/XXXXX</link>
-            <guid>107000</guid>
-            <pubDate>Mon, 30 Nov 2020 21:00:00 GMT</pubDate>
-            <description><![CDATA[テスト2の Advent Calendar 2020 X日目]]></description>
-        </item>
     </channel>
 </rss>
