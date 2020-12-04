@@ -8,6 +8,13 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Adventar</generator>
         <item>
+            <title><![CDATA[フィードタイトル3]]></title>
+            <link>フィードリンクC</link>
+            <guid>106988</guid>
+            <pubDate>Mon, 30 Nov 2020 15:00:00 GMT</pubDate>
+            <description><![CDATA[テスト Advent Calendar 2020 3日目]]></description>
+        </item>
+        <item>
             <title><![CDATA[フィードタイトル2]]></title>
             <link>フィードリンクA</link>
             <guid>106988</guid>
